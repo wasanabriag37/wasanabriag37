@@ -1,7 +1,8 @@
 # 👋 Hola, soy Alejandro Sanabria
-
-Desarrollador Full-Stack apasionado con **4 años de experiencia** transformando ideas en productos funcionales y escalables. He trabajado en proyectos que combinan **backend robusto (Java, Spring Boot)** con **interfaces dinámicas (Angular, JavaScript, PrimeNG)**, siempre priorizando la calidad y la experiencia del usuario.
-![Foto Perfil](https://i.imgur.com/tu-imagen.jpg)
+<div align="center">
+<img src="./soft.gif" alt="Foto Perfil" width="200" style="border-radius: 50%; border: 2px solid #fff;"/>
+</div>
+Desarrollador Full-Stack apasionado con 4 años de experiencia transformando ideas en productos funcionales y escalables. He trabajado en proyectos que combinan backend robusto (Java, Spring Boot) con interfaces dinámicas (Angular, JavaScript, PrimeNG), siempre priorizando la calidad y la experiencia del usuario.
 
 ### 🛠 Tecnologías que utilizo
 <details>
@@ -69,11 +70,5 @@ Desarrollador Full-Stack apasionado con **4 años de experiencia** transformando
 | ![NSSM](https://img.shields.io/badge/NSSM-0078D7?style=flat&logoColor=white) | ⭐⭐ (Principiante) |
 </details>
 
-### 📫 Contáctame
-- Email: tu-email@example.com
-- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
 
----
-
-> "El código es poesía." – Anónimo
+> "Cualquier tecnología lo suficientemente avanzada es indistinguible de la magia." – Arthur C. Clarke
