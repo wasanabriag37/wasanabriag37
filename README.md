@@ -22,9 +22,9 @@ Desarrollador Full-Stack apasionado con 4 años de experiencia transformando ide
 
 | Tecnología | Nivel de Habilidad |
 |------------|--------------------|
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ⭐⭐⭐⭐ (Intermedio) |
 | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) | ⭐⭐⭐⭐⭐ (Experto) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ⭐⭐⭐ (Principiante) |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ⭐⭐⭐⭐ (Intermedio) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ⭐⭐⭐⭐ (Intermedio) |
 
 </details>
 
@@ -67,7 +67,7 @@ Desarrollador Full-Stack apasionado con 4 años de experiencia transformando ide
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ (Experto) |
 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ⭐⭐⭐⭐ (Intermedio) |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ⭐⭐⭐⭐⭐ (Experto) |
-| ![NSSM](https://img.shields.io/badge/NSSM-0078D7?style=flat&logoColor=white) | ⭐⭐ (Principiante) |
+| ![NSSM](https://img.shields.io/badge/NSSM-0078D7?style=flat&logoColor=white) | ⭐⭐⭐⭐ (Intermedio) |
 </details>
 
 
