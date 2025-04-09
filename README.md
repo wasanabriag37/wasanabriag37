@@ -34,7 +34,7 @@ Desarrollador Full-Stack apasionado con 4 años de experiencia transformando ide
 | Tecnología | Nivel de Habilidad |
 |------------|--------------------|
 | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | ⭐⭐⭐⭐⭐ (Experto) |
-| ![PrimeNG](https://img.shields.io/badge/PrimeNG-0078D7?style=flat&logo=primeng&logoColor=white) | ⭐⭐⭐⭐ (Intermedio) |
+| ![PrimeNG](https://img.shields.io/badge/PrimeNG-0078D7?style=flat&logo=primeng&logoColor=white) | ⭐⭐⭐⭐⭐ (Experto) |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ⭐⭐⭐⭐⭐ (Experto) |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ (Experto) |
 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ⭐⭐⭐⭐ (Intermedio) |
